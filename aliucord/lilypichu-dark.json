@@ -1,9 +1,9 @@
 {
-  "name": "LilyPichu",
-  "author": "Nyria#3863",
+  "name": "LilyPich",
+  "author": "Toby#0004",
   "version": "1.0.0",
-  "updater": "https://raw.githubusercontent.com/NYRI4/LilyPichu/master/aliucord/lilypichu.json",
-  "font": "https://raw.githubusercontent.com/NYRI4/LilyPichu/master/aliucord/nunito.ttf",
+  "updater": "https://raw.githubusercontent.com/TobyTober/LilyPichu/main/aliucord/lilypichu-dark.json",
+  "font": "https://raw.githubusercontent.com/TobyTober/LilyPichu/main/aliucord/nunito.ttf",
   "license": "CC BY-NC-ND 4.0",
   "drawablecolor_drawable_overlay_channels_selected_dark": 385875968,
   "statusbar_color": -14545132,
